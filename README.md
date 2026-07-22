@@ -55,6 +55,7 @@ $0.00 — t2.micro within AWS Free Tier (750 hours/month for 12 months)
 Instance stopped when not in use to preserve free tier hours.
 
 ## Screenshots
+
 ![EC2 Dashboard](01-ec2-dashboard.png)
 ![Instance Configuration](02-ec2-config-summary.png)
 ![Key Pair Created](03-key-pair-created.png)
@@ -62,13 +63,13 @@ Instance stopped when not in use to preserve free tier hours.
 ![Security Group SSH Rule](05-security-group-ssh-rule.png)
 ![Instance Launch Success](06-instance-launch-success.png)
 ![Instance Running](07-instance-running-public-ip.png)
-![SSH Connect](08-key-file-found.png)
-![SSH Key](09-key-permissions-set.png)
+![Key File Found](08-key-file-found.png)
+![Key Permissions Set](09-key-permissions-set.png)
 ![SSH Connected](10-ssh-connected-linux-commands.png)
-![SSH Stopped](11-ssh-connection-stopped.png)
+![Instance Stopped](11-ssh-connection-stopped.png)
 ![CloudWatch Dashboard](12-cloudwatch-dashboard.png)
-![Alarm Created](13-cloudwatch-alarm-created.png)
-![Alarm Threshold Config](14-cloudwatch-alarm-threshold.png)
+![Alarm Threshold Config](13-cloudwatch-alarm-threshold.png)
+![Alarm Created](14-cloudwatch-alarm-created.png)
 ![SNS Confirmed](15-sns-subscription-confirmed.png)
 ---
 *Part of my AWS Cloud Engineering Portfolio | [View all projects](https://github.com/dcprice79)*

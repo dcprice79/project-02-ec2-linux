@@ -70,6 +70,5 @@ Instance stopped when not in use to preserve free tier hours.
 ![Alarm Created](13-cloudwatch-alarm-created.png)
 ![Alarm Threshold Config](14-cloudwatch-alarm-threshold.png)
 ![SNS Confirmed](13-sns-subscription-confirmed.png)
-
 ---
 *Part of my AWS Cloud Engineering Portfolio | [View all projects](https://github.com/dcprice79)*
